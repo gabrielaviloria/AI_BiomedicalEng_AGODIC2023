@@ -1,3 +1,0 @@
-# Final project for the AI class
-## Topic: Breast Cancer Classification using CNN
-Team 7
